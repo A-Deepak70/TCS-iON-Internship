@@ -27,5 +27,8 @@ Model Building
 Conclusion
 ## Screenshots
 
-![App Screenshot](Screenshots/img1.png)
+![App Screenshot](Screenshots/img3.png)
+![App Screenshot](Screenshots/img4.png)
+![App Screenshot](Screenshots/img5.png)
+
 
